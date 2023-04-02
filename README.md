@@ -1,2 +1,2 @@
 # chatgpt-prompts-assistant
-Prompt assistant for web chatGPT, save frequently used prompts locally for easy recall
+Prompts assistant for web chatGPT, save frequently used prompts locally for easy recall
