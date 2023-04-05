@@ -7,7 +7,6 @@ Guide: https://aifreetips.com/en/tutorials/customized-chatgpt-plugin-for-boostin
 
 手册: https://aifreetips.com/zh/tutorials/customized-chatgpt-plugin-for-boosting-chatting-efficiency/
 
-Download
 
 ### 1.0.0
 
@@ -15,4 +14,4 @@ Download
 2. Save previous prompt if the server is disconected
 3. Support for defining variables inside the prompt
 
-(Download)[https://github.com/programfault/chatgpt-prompt-assistant/releases/tag/1.0.0]
+[Downlaod](https://github.com/programfault/chatgpt-prompt-assistant/releases/tag/1.0.0)
