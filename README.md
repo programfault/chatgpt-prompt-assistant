@@ -1,7 +1,7 @@
 # chatgpt-prompts-assistant
 Prompt assistant for web chatGPT, save frequently used prompts locally for easy recall
 
-
+![](screenshot.png)
 
 Guide: https://aifreetips.com/en/tutorials/customized-chatgpt-plugin-for-boosting-chatting-efficiency/
 
